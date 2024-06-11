@@ -39,3 +39,6 @@ x = gcdEuclideanAlgorithm(3, 21)
 x = gcdEuclideanAlgorithm(15, 70)
 print(x)
 
+def ceilingDiv(n, d):
+    return -(n // -d)
+
