@@ -31,7 +31,7 @@
                 
 #         return self.rec_req
 
-#6/17/24 Attempt #2
+#6/18/24 Attempt #1
 #res: https://leetcode.com/problems/number-of-recent-calls/solutions/873209/python-super-simple-and-short-solution-o-1-time-o-1-space/
 class RecentCounter(object):
 
